@@ -1,11 +1,11 @@
 ### Hi there 👋
 
----
+
 
 ##
 ### About me
 
--  I'm a 4º year computer science grad student at University of São Paulo
+-  I'm a 4º year CompSci grad student at University of São Paulo
   
 - Focused on data science and machine learning subejects
   
@@ -14,7 +14,6 @@
 - Emulator enthusiast!
 
 
----
 
 ##
 ### Technologies
@@ -26,7 +25,7 @@
 ![JavaScript](https://img.shields.io/badge/Linux-%23316192.svg?style=flat&logo=linux&logoColor=black&color=white)
 ![Latex](https://img.shields.io/badge/Latex-%23316192.svg?style=flat&logo=latex&logoColor=black&color=white)
 
----
+
 ##
 ### I’m currently learning 
 
@@ -36,7 +35,7 @@
 ![Go](https://img.shields.io/badge/GO-%C512C5.svg?style=flat&logo=Go&logoColor=6AD8E6&color=white)
 ![Rust](https://img.shields.io/badge/Rust-%262626.svg?style=flat&logo=Rust&logoColor=A5330F&color=262626)
 
----
+
 
 ##
 ### How to Reach me?
