@@ -11,7 +11,7 @@
   
 - In love with ![Manjaro](https://img.shields.io/badge/Manjaro-%23316192.svg?style=flat&logo=manjaro&logoColor=white&color=) 
   
-- Emulator enthusiast!
+- Emulation enthusiast!
 
 
 
