@@ -57,7 +57,7 @@ Follow my socials!
 
 **📈 Stats:**
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Idalen&theme=dracula)
-![](https://github-readme-stats.vercel.app/api?username=Idalen&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Idalen&theme=nord)
+![](https://github-readme-stats.vercel.app/api?username=Idalen&theme=nord)
 
 
