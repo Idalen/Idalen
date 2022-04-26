@@ -55,7 +55,8 @@ Follow my socials!
 )](https://leetcode.com/Idalen/)
 ![GitHub followers](https://img.shields.io/github/followers/Idalen?label=Follow&style=social)
 
-**📈 Stats:**
+##
+###Stats
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Idalen&theme=nord)
 ![](https://github-readme-stats.vercel.app/api?username=Idalen&theme=nord)
