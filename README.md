@@ -7,7 +7,7 @@
 
 -  I'm a 4º year CompSci grad student at University of São Paulo
   
-- Focused on data science and machine learning subejects
+- Focused on data science and machine learning subjects
   
 - In love with ![Manjaro](https://img.shields.io/badge/Manjaro-%23316192.svg?style=flat&logo=manjaro&logoColor=white&color=) 
   
