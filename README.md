@@ -20,18 +20,17 @@
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23316192.svg?style=flat&logo=javascript&logoColor=yellow&color=black)
-![JavaScript](https://img.shields.io/badge/Linux-%23316192.svg?style=flat&logo=linux&logoColor=black&color=white)
-![Latex](https://img.shields.io/badge/Latex-%23316192.svg?style=flat&logo=latex&logoColor=black&color=white)
+![PyTorch](https://img.shields.io/badge/Pytorch-%23FF6F00.svg?style=flat&logo=PyTorch&logoColor=EE4C2C&color=262626)
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-%23316192.svg?style=flat&logo=linux&logoColor=black&color=white)
 ![Docker](https://img.shields.io/badge/Docker-%23316192.svg?style=flat&logo=docker&logoColor=F5FFFF&color=2395ED)
-
+![Latex](https://img.shields.io/badge/Latex-%23316192.svg?style=flat&logo=latex&logoColor=black&color=white)
 
 ##
 ### I’m currently learning 
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/Pytorch-%23FF6F00.svg?style=flat&logo=PyTorch&logoColor=EE4C2C&color=262626)
 ![Julia](https://img.shields.io/badge/Julia-%C512C5.svg?style=flat&logo=Julia&logoColor=white&color=9458B2)
 ![Go](https://img.shields.io/badge/GO-%C512C5.svg?style=flat&logo=Go&logoColor=6AD8E6&color=white)
 ![Rust](https://img.shields.io/badge/Rust-%262626.svg?style=flat&logo=Rust&logoColor=A5330F&color=262626)
