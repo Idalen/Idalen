@@ -61,4 +61,9 @@ Follow my socials!
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Idalen&theme=nord)
 ![](https://github-readme-stats.vercel.app/api?username=Idalen&theme=nord)
 
+##
+### Some Social Medias
+
+[![Goodreads](https://img.shields.io/badge/Goodreads-%23AC6E2F.svg?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/90776266-daniel-vieira)
+
 
