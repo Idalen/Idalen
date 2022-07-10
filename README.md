@@ -26,6 +26,7 @@
 ![Linux](https://img.shields.io/badge/Linux-%23316192.svg?style=flat&logo=linux&logoColor=black&color=white)
 ![Docker](https://img.shields.io/badge/Docker-%23316192.svg?style=flat&logo=docker&logoColor=F5FFFF&color=2395ED)
 ![Latex](https://img.shields.io/badge/Latex-%23316192.svg?style=flat&logo=latex&logoColor=black&color=white)
+![Bash](https://img.shields.io/badge/Bash-%23316192.svg?style=flat&logo=gnubash&logoColor=white&color=293036)
 
 ##
 ### I’m currently learning 
