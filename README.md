@@ -76,7 +76,7 @@ Follow my socials!
   </div>    
 
   <br/>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="idalen's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=idalen&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="idalen's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=idalen&bg_color=2e3440&color=eceff4&line=eceff4&point=bf616a&hide_border=true" /></a>
 
 ##
 ### Some Social Medias
