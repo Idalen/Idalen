@@ -81,6 +81,7 @@ Follow my socials!
 ##
 ### Some Social Medias
 
-[![Goodreads](https://img.shields.io/badge/Goodreads-%23AC6E2F.svg?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/90776266-daniel-vieira)
+[![Goodreads](https://img.shields.io/badge/Goodreads-%23AC6E2F.svg?style=flat&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/90776266-daniel-vieira)
+[![Lastfm](https://img.shields.io/badge/Last.fm-%EF0E13.svg?style=flat&logo=last.fm&color=EF0E13&logoColor=white)](https://www.last.fm/user/danmarvi)
 
 
