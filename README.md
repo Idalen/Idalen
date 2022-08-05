@@ -1,4 +1,4 @@
-### Welcome, stranger 👋
+### Welcome, stranger 
 
 
 
@@ -60,8 +60,23 @@ Follow my socials!
 ##
 ### Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Idalen&theme=nord)
-![](https://github-readme-stats.vercel.app/api?username=Idalen&theme=nord)
+  <div>
+      <br/>
+        <p align="center">
+          <a href="https://github.com/1999AZZAR/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idalen&langs_count=6&theme=nord&layout=compact&hide_border=true" alt="Idalen :: Top Langs" /></a>
+        </p>
+        <p align="center">
+          <a href="https://github.com/1999AZZAR/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=idalen&show_icons=true&theme=nord&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=idalen&theme=nord&hide_border=true" />
+          </a>
+       </p>
+     <br>
+  </div>    
+
+  <br/>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="idalen's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=idalen&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 
 ##
 ### Some Social Medias
