@@ -37,7 +37,7 @@
 ![Rust](https://img.shields.io/badge/Rust-%262626.svg?style=flat&logo=Rust&logoColor=A5330F&color=262626)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%262626.svg?style=flat&logo=OpenGL&logoColor=white&color=688DA8)
 ![Godot](https://img.shields.io/badge/Godot-%262626.svg?style=flat&logo=GodotEngine&logoColor=white&color=468CBF)
-![Ruby](https://img.shields.io/badge/Ruby-%262626.svg?style=flat&logo=Ruby&logoColor=EF0E13&color=white)
+![Scala](https://img.shields.io/badge/Scala-%262626.svg?style=flat&logo=Scala&logoColor=EF0E13&color=white)
 
 
 
