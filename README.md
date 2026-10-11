@@ -25,7 +25,5 @@ You can reach me at my [e-mail](mailto:idalenm@proton.me)
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Idalen&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Idalen&layout=compact&theme=github_dark)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Idalen&theme=github-dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Idalen&layout=compact&theme=github_dark&hide=jupyter%20notebook,jinja)
